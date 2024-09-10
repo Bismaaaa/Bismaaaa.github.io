@@ -159,16 +159,7 @@
         <div class="details">
             <h4 class="color1">Happy Birthday!</h4>
             <h4 class="color2">Cipcippp</h4>
-            <p>Dear Cipcippp,</p>
-            <p>Makasihh ya udah mau bukak....</p>
-            <p>have a great Birthday yg ke-19 yaaaa, ga sadar udah last teen aja nihh</p>
-            <p>maap hadiahnya sederhana banget ya hehee, aku ngga pandai buat kata" mutiara,mungkin</p>
-            <p> di surat sederhana ini aku cuma ngasi doa aja yaa, Semoga di umurmu yg sekarang kamu bisa lebih</p>
-            <p>dewasa,lebih bijaksana,dan lebih peduli terhadap diri kamu sendiri yaa,maupun sekitar mu</p>
-            <p>jaga kesehatan ga ada yg peduli selain dirimu sendiri,semoga segala rintangan dapat</p>
-            <p>kamu lewati dengan senyuman dan ketabahan hati,semoga di jauhkan dari orang" negatif</p>
-            <p>dan yang paling penting Semoga kuliah nya lancar kaya jalan tol kalo ga macet</p>
-            <p> selebihnya doa sendiri yaa dah besarr jangan manja hehee</p>
+         
 
             <p class="text-right">Happy Birthday , my fav Human</p>
         </div>
